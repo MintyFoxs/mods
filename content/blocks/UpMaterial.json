@@ -1,0 +1,30 @@
+{ 
+    "type": "GenericSmelter",
+    "name": "Таинственный завод",
+    "description": "Создаёт таинственный ресурс",
+    "outputItem": { "item": "MusticalSource", "amount": 3},
+	"size": 2,
+	"hasPower": true,
+	"hasItems": true,
+	"craftTime": 80,
+    "health": 200,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"items": {
+			"items": [
+				{ "item": "DarkMaterial", "amount": 3 },
+				{ "item": "copper", "amount": 2 },
+		       	{ "item": "sand", "amount": 2 }
+			]
+		}
+	},
+    "requirements": [
+		{ "item": "DarkMaterial", "amount": 50 },
+		{ "item": "copper", "amount": 25 }
+        ],
+	"category": "crafting",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+
+
+}

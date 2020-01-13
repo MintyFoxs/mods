@@ -1,0 +1,28 @@
+{ 
+    "type": "SingleTypeGenerator",
+    "name": "Таинственный генератор",
+    "description": "Вырабатывает энергию из таинственного ресурса",
+    "powerProduction": 4.09,
+    "outputsPower": "true",
+	"size": 2,
+	"hasPower": true,
+	"hasItems": true,
+    "health": 200,
+	"itemDuration": 30,
+	"consumes": {
+		"items": {
+			"items": [
+				{ "item": "MusticalSource", "amount": 2 }
+			]
+		}
+	},
+    "requirements": [
+		{ "item": "DarkMaterial", "amount": 50 },
+		{ "item": "copper", "amount": 25 }
+        ],
+	"category": "power",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+
+
+}

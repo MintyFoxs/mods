@@ -1,0 +1,7 @@
+{
+  "type": "resource",
+  "name": "Mustical Resource",
+  "description": "Таинственный ресурс - выроботка энергии",
+  "cost": 2.0,
+  "color": "#bb00bb"
+}
