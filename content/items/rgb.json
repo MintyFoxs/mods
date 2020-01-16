@@ -1,0 +1,8 @@
+{
+  "type": "material",
+  "name": "Rgb Material",
+  "description": "Rgb материя - основной компонент для туреллей",
+  "cost": 2.0,
+  "hardness": 1,
+  "color": "#8b008b"
+}
