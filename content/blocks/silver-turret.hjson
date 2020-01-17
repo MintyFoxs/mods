@@ -11,7 +11,16 @@ rotatespeed: 12
 ammo: {
   silver: {
     speed: 9
-    damage: 400
+    damage: 40000
+    bulletWidth: 7
+    bulletHeight: 9
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 5
+  }
+  copper: {
+    speed: 9
+    damage: 40000
     bulletWidth: 7
     bulletHeight: 9
     shootEffect: shootSmall
