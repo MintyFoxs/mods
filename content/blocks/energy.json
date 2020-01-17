@@ -4,7 +4,7 @@
     "description": "Вырабатывает энергию из таинственного ресурса",
     "powerProduction": 400.09,
     "outputsPower": "true",
-	"size": 1,
+	"size": 2,
 	"hasPower": true,
 	"hasItems": true,
     "health": 20000,
@@ -12,7 +12,7 @@
 	"consumes": {
 		"items": {
 			"items": [
-				{ "item": "MusticalSource", "amount": 2 }
+				{ "item": "copper", "amount": 1 }
 			]
 		}
 	},
