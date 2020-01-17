@@ -6,26 +6,26 @@ size: 1
 reload: 4
 range: 10000
 ammoUseEffect: shellEjectSmall
-inaccuracy: 30
+inaccuracy: 1
 rotatespeed: 12
 ammo: {
   silver: {
-    speed: 2
+    speed: 10
     damage: 40000
     bulletWidth: 7
     bulletHeight: 9
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
-    ammoMultiplier: 1
+    ammoMultiplier: 5
   }
   copper: {
-    speed: 2
+    speed: 10
     damage: 40000
     bulletWidth: 7
     bulletHeight: 9
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
-    ammoMultiplier: 1
+    ammoMultiplier: 5
   }
 }
 requirements: [
