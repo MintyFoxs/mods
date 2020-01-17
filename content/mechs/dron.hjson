@@ -10,3 +10,11 @@ mass: 2.0
 shake: 9
 health: 350
 hitsize: 6
+weaponOffsetX: 4
+weapon: {
+  name: chrome-blaster
+  length: 1.5
+  reload: 4
+  alternate: false
+  bullet: lightning
+}
