@@ -10,7 +10,7 @@ inaccuracy: 1
 rotatespeed: 12
 ammo: {
   silver: {
-    speed: 8
+    speed: 3
     damage: 40000
     bulletWidth: 7
     bulletHeight: 9
@@ -19,7 +19,7 @@ ammo: {
     ammoMultiplier: 5
   }
   copper: {
-    speed: 8
+    speed: 3
     damage: 40000
     bulletWidth: 7
     bulletHeight: 9
