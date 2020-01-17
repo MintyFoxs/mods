@@ -16,7 +16,7 @@ ammo: {
     bulletHeight: 9
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
-    ammoMultiplier: 9000
+    ammoMultiplier: 1
   }
   copper: {
     speed: 2
@@ -25,7 +25,7 @@ ammo: {
     bulletHeight: 9
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
-    ammoMultiplier: 9000
+    ammoMultiplier: 1
   }
 }
 requirements: [
