@@ -9,7 +9,7 @@ consumes: {
 category: upgrade
 research: wraith-factory
 requirements: [
-  darkmaterial/70
+  DarkMaterial/70
   copper/40
   graphite/50
 ]
