@@ -10,22 +10,22 @@ inaccuracy: 30
 rotatespeed: 12
 ammo: {
   silver: {
-    speed: 9
+    speed: 2
     damage: 40000
     bulletWidth: 7
     bulletHeight: 9
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
-    ammoMultiplier: 5
+    ammoMultiplier: 9000
   }
   copper: {
-    speed: 9
+    speed: 2
     damage: 40000
     bulletWidth: 7
     bulletHeight: 9
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
-    ammoMultiplier: 5
+    ammoMultiplier: 9000
   }
 }
 requirements: [
