@@ -1,7 +1,7 @@
 type: DoubleTurret
 name: Silver Turret
 description: Sprays useless silver bullets everywhere. What a mess.
-health: 200
+health: 20000
 size: 1
 reload: 4
 range: 100
@@ -10,8 +10,8 @@ inaccuracy: 30
 rotatespeed: 12
 ammo: {
   silver: {
-    speed: 3
-    damage: 3
+    speed: 9
+    damage: 400
     bulletWidth: 7
     bulletHeight: 9
     shootEffect: shootSmall
@@ -20,8 +20,7 @@ ammo: {
   }
 }
 requirements: [
-  silver/40
-  copper/70
+  copper/2
 ]
 category: turret
 research: duo
