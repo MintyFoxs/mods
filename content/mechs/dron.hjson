@@ -10,4 +10,4 @@ mass: 2.0
 shake: 9
 health: 350
 hitsize: 6
-weapon: none
+weapon: null
