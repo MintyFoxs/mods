@@ -1,0 +1,13 @@
+name: dron
+description: dron
+type: mech
+flying: true
+speed: 3.0
+maxSpeed: 6.0
+boostSpeed: 16.0
+drag: 0.8
+mass: 2.0
+shake: 9
+health: 350
+hitsize: 6
+weapon: none
