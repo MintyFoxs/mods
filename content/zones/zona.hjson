@@ -1,10 +1,17 @@
-name: Silver Crags
+name: zona
 description: Salt and silver lie here.
 loadout: basicFoundation
 startingItems: [
   copper/200
   lead/300
 ]
+requirements: [
+  {
+    type: ZoneWave
+    zone: groundZero
+    wave: 1
+  }
+  ]
 conditionWave: 10
 launchPeriod: 10
 resources: [
