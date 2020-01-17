@@ -1,0 +1,12 @@
+name: Mini Drill
+description: A very strange drill.
+type: Drill
+size: 1
+tier: 24
+drillTime: 20
+
+requirements: [
+  copper/1
+]
+category: production
+research: laser-drill
