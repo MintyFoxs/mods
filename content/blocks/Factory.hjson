@@ -1,0 +1,39 @@
+type: Separator
+name: factory
+description: des
+craftTime: 40
+liquidCapacity: 50
+size: 2
+hasPower: true
+hasLiquids: true
+hasItems: true
+updateEffect: smeltsmoke
+idleSound: respawning
+idleSoundVolume: 0.5
+
+consumes:{
+power:0.7
+liquid:{
+liquid: water
+amount: 0.25
+
+}
+items:{
+items: [
+sand/3
+]
+}
+}
+
+results:[
+copper/2
+lead/3
+]
+
+requirements: [
+copper/35
+]
+
+category: crafting
+
+research: duo

@@ -1,6 +1,6 @@
-name: "example-mod"
+name: "example-mod-hack"
 displayName: "[orange]Example[gold] Mod" //what displays in the mod selection menu
-author: "Anuke"
+author: "Anuke [white]upd: [magenta]Nyafa[purple]Kyn"
 description: "A simple mod. Demonstrates how to make[accent] new ores[] and[orange] machines.[]"
-version: "3.0"
+version: "3.0.hack"
 minGameVersion: "101"
